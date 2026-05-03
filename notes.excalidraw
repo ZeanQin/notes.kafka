@@ -899,10 +899,12 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "seed": 1314646530,
-      "version": 828,
-      "versionNonce": 1780569182,
+      "version": 829,
+      "versionNonce": 1943300034,
       "isDeleted": false,
       "boundElements": [
         {
@@ -914,7 +916,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1777801027980,
+      "updated": 1777801901348,
       "link": null,
       "locked": false
     },
@@ -938,13 +940,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 2030851678,
-      "version": 943,
-      "versionNonce": 1885341982,
+      "version": 944,
+      "versionNonce": 802712926,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027980,
+      "updated": 1777801901348,
       "link": null,
       "locked": false,
       "text": "producer",
@@ -977,13 +981,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1728837598,
-      "version": 825,
-      "versionNonce": 536687966,
+      "version": 826,
+      "versionNonce": 708190082,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027980,
+      "updated": 1777801901348,
       "link": null,
       "locked": false
     },
@@ -1008,10 +1014,12 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "seed": 906765598,
-      "version": 1039,
-      "versionNonce": 1369560962,
+      "version": 1040,
+      "versionNonce": 546393730,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1027,7 +1035,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1777801027980,
+      "updated": 1777801907333,
       "link": null,
       "locked": false
     },
@@ -1052,13 +1060,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 470467522,
-      "version": 1211,
-      "versionNonce": 789589698,
+      "version": 1212,
+      "versionNonce": 1725059742,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801907333,
       "link": null,
       "locked": false,
       "text": "consumer 1",
@@ -1092,13 +1102,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 298176862,
-      "version": 1058,
-      "versionNonce": 945882754,
+      "version": 1059,
+      "versionNonce": 1680354882,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801907333,
       "link": null,
       "locked": false
     },
@@ -1123,13 +1135,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1964992130,
-      "version": 172,
-      "versionNonce": 1056578206,
+      "version": 173,
+      "versionNonce": 1953124062,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801907333,
       "link": null,
       "locked": false,
       "text": "a",
@@ -1162,13 +1176,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1399421022,
-      "version": 323,
-      "versionNonce": 1497425474,
+      "version": 324,
+      "versionNonce": 424482306,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801907333,
       "link": null,
       "locked": false,
       "text": "Consumer Group Id: \"billing-service\"",
@@ -1202,10 +1218,12 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "seed": 973149534,
-      "version": 1103,
-      "versionNonce": 72947422,
+      "version": 1104,
+      "versionNonce": 438113182,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1221,7 +1239,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1777801027981,
+      "updated": 1777801911628,
       "link": null,
       "locked": false
     },
@@ -1246,13 +1264,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 843839362,
-      "version": 1274,
-      "versionNonce": 1545657246,
+      "version": 1275,
+      "versionNonce": 1889926466,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801911628,
       "link": null,
       "locked": false,
       "text": "consumer 2",
@@ -1286,13 +1306,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1647491486,
-      "version": 1119,
-      "versionNonce": 822065118,
+      "version": 1120,
+      "versionNonce": 1387589598,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801911628,
       "link": null,
       "locked": false
     },
@@ -1317,13 +1339,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 447067970,
-      "version": 233,
-      "versionNonce": 702463234,
+      "version": 234,
+      "versionNonce": 322503938,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801911628,
       "link": null,
       "locked": false,
       "text": "a",
@@ -1356,13 +1380,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 354801118,
-      "version": 384,
-      "versionNonce": 1983450142,
+      "version": 385,
+      "versionNonce": 478626846,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801911628,
       "link": null,
       "locked": false,
       "text": "Consumer Group Id: \"billing-service\"",
@@ -1396,10 +1422,12 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 3
+      },
       "seed": 1831832834,
-      "version": 1121,
-      "versionNonce": 1858325698,
+      "version": 1122,
+      "versionNonce": 1815442434,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1411,7 +1439,7 @@
           "id": "Fd_8YNK7cd5RuHw6wpeRJ"
         }
       ],
-      "updated": 1777801027981,
+      "updated": 1777801916800,
       "link": null,
       "locked": false
     },
@@ -1436,13 +1464,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 1763523614,
-      "version": 1291,
-      "versionNonce": 1529152578,
+      "version": 1292,
+      "versionNonce": 856507678,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801916800,
       "link": null,
       "locked": false,
       "text": "consumer 3",
@@ -1476,13 +1506,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 796564674,
-      "version": 1137,
-      "versionNonce": 104803330,
+      "version": 1138,
+      "versionNonce": 1126933442,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801916800,
       "link": null,
       "locked": false
     },
@@ -1507,13 +1539,15 @@
         "CvOifWyXrv9ggyherXBob"
       ],
       "frameId": null,
-      "roundness": null,
+      "roundness": {
+        "type": 2
+      },
       "seed": 278661214,
-      "version": 251,
-      "versionNonce": 1637551390,
+      "version": 252,
+      "versionNonce": 295891294,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777801027981,
+      "updated": 1777801916800,
       "link": null,
       "locked": false,
       "text": "a",
